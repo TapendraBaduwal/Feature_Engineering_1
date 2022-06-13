@@ -26,7 +26,7 @@ Mathematical transformation
 
 (a)Logarithmic transformation,(b)Reciprocal transformation,(c)Square transformation,(d)Box-Cox transformation,(e)Yeo-Johnson transformation
 
-Feature Scaling
+Feature Scaling:
 
 (a)Normalization(Min-Max Scaling),(b)Standardization,(c)RobustScaler Scaling
 
